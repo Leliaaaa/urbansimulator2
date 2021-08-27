@@ -1,0 +1,6 @@
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\bin\urbansimulator.dll
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\bin\urbansimulator.pdb
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\obj\Debug\urbansimulator.csproj.AssemblyReference.cache
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\obj\Debug\urbansimulator.csproj.CoreCompileInputs.cache
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\obj\Debug\urbansimulator.dll
+C:\Users\lenora\source\repos\urbansimulator\urbansimulator\obj\Debug\urbansimulator.pdb
